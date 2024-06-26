@@ -75,7 +75,7 @@ contract SalePurchase {
 # Authors
 
 Atul Mishra
-- [@atulmishra4709](https://github.com/atulmishra4709)
+- [atulmishra4709](https://github.com/atulmishra4709)
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
